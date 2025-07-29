@@ -1,3 +1,4 @@
+console.log("hello");
 document.addEventListener('DOMContentLoaded', function () {
   var bg = chrome.extension.getBackgroundPage();
   console.log(bg);
