@@ -1,4 +1,6 @@
 console.log("hello");
+var AWS_TOKEN = "1swqwedq2123132qweqwq"
+
 document.addEventListener('DOMContentLoaded', function () {
   var bg = chrome.extension.getBackgroundPage();
   console.log(bg);
